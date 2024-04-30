@@ -1,0 +1,479 @@
+﻿OID_,Value,Classvalue,Class_name,Class_From,Class_To,Red,Green,Blue,Alpha,Count,Area
+0,0,1,Corn: Irrigated,Corn: Irrigated,Corn: Irrigated,54,203,46,255,133.000000000000000,131294.615396000008332
+1,1,44,Corn: Irrigated->Corn: Rainfed,Corn: Irrigated,Corn: Rainfed,143,148,51,255,225.000000000000000,222114.950857999996515
+2,2,45,Corn: Irrigated->Wheat: Irrigated,Corn: Irrigated,Wheat: Irrigated,150,225,108,255,281.000000000000000,277396.894183000025805
+3,3,46,Corn: Irrigated->Wheat: Rainfed,Corn: Irrigated,Wheat: Rainfed,48,205,98,255,104.000000000000000,102666.466174000001047
+4,7,50,Corn: Irrigated->Other Grain: Irrigated,Corn: Irrigated,Other Grain: Irrigated,62,128,145,255,4.000000000000000,3948.710237469999811
+5,8,51,Corn: Irrigated->Other Grain: Rainfed,Corn: Irrigated,Other Grain: Rainfed,94,108,115,255,7.000000000000000,6910.242915580000044
+6,9,52,Corn: Irrigated->Fiber Crop: Irrigated,Corn: Irrigated,Fiber Crop: Irrigated,47,221,27,255,390.000000000000000,384999.248153999971692
+7,10,53,Corn: Irrigated->Fiber Crop: Rainfed,Corn: Irrigated,Fiber Crop: Rainfed,82,142,128,255,24.000000000000000,23692.261424799999077
+8,11,54,Corn: Irrigated->Fodder Grass: Irrigated,Corn: Irrigated,Fodder Grass: Irrigated,95,193,71,255,6.000000000000000,5923.065356209999663
+9,12,55,Corn: Irrigated->Fodder Grass: Rainfed,Corn: Irrigated,Fodder Grass: Rainfed,49,119,39,255,22.000000000000000,21717.906306100001530
+10,13,56,Corn: Irrigated->Fodder Herb: Irrigated,Corn: Irrigated,Fodder Herb: Irrigated,121,176,107,255,287.000000000000000,283319.959539000003133
+11,14,57,Corn: Irrigated->Fodder Herb: Rainfed,Corn: Irrigated,Fodder Herb: Rainfed,94,212,86,255,77.000000000000000,76012.672071399996639
+12,17,60,Corn: Irrigated->Other Arable Land,Corn: Irrigated,Other Arable Land,116,121,66,255,391.000000000000000,385986.425713000004180
+13,30,73,Corn: Irrigated->Shrubland,Corn: Irrigated,Shrubland,46,127,134,255,5.000000000000000,4935.887796840000192
+14,36,79,Corn: Rainfed->Corn: Irrigated,Corn: Rainfed,Corn: Irrigated,149,28,107,255,239.000000000000000,235935.436688999994658
+15,37,2,Corn: Rainfed,Corn: Rainfed,Corn: Rainfed,140,13,42,255,2465.000000000000000,2433392.683840000070632
+16,38,80,Corn: Rainfed->Wheat: Irrigated,Corn: Rainfed,Wheat: Irrigated,193,130,106,255,82.000000000000000,80948.559868199998164
+17,39,81,Corn: Rainfed->Wheat: Rainfed,Corn: Rainfed,Wheat: Rainfed,91,110,96,255,1567.000000000000000,1546907.235529999947175
+18,41,83,Corn: Rainfed->Oil Crop: Irrigated,Corn: Rainfed,Oil Crop: Irrigated,107,44,145,255,7.000000000000000,6910.242915580000044
+19,42,84,Corn: Rainfed->Oil Crop: Rainfed,Corn: Rainfed,Oil Crop: Rainfed,173,123,44,255,28.000000000000000,27640.971662299998570
+20,43,85,Corn: Rainfed->Other Grain: Irrigated,Corn: Rainfed,Other Grain: Irrigated,105,33,143,255,4.000000000000000,3948.710237469999811
+21,44,86,Corn: Rainfed->Other Grain: Rainfed,Corn: Rainfed,Other Grain: Rainfed,137,13,113,255,563.000000000000000,555780.965925000025891
+22,45,87,Corn: Rainfed->Fiber Crop: Irrigated,Corn: Rainfed,Fiber Crop: Irrigated,90,126,25,255,310.000000000000000,306025.043403999996372
+23,46,88,Corn: Rainfed->Fiber Crop: Rainfed,Corn: Rainfed,Fiber Crop: Rainfed,125,47,126,255,203.000000000000000,200397.044552000006661
+24,47,89,Corn: Rainfed->Fodder Grass: Irrigated,Corn: Rainfed,Fodder Grass: Irrigated,138,98,69,255,8.000000000000000,7897.420474950000425
+25,48,90,Corn: Rainfed->Fodder Grass: Rainfed,Corn: Rainfed,Fodder Grass: Rainfed,92,24,37,255,667.000000000000000,658447.432098999968730
+26,49,91,Corn: Rainfed->Fodder Herb: Irrigated,Corn: Rainfed,Fodder Herb: Irrigated,164,81,105,255,21.000000000000000,20730.728746699998737
+27,50,92,Corn: Rainfed->Fodder Herb: Rainfed,Corn: Rainfed,Fodder Herb: Rainfed,137,117,84,255,725.000000000000000,715703.730542000033893
+28,51,93,Corn: Rainfed->Misc-Crop: Irrigated,Corn: Rainfed,Misc-Crop: Irrigated,115,69,32,255,1.000000000000000,987.177559369000051
+29,52,94,Corn: Rainfed->Misc-Crop: Rainfed,Corn: Rainfed,Misc-Crop: Rainfed,159,50,142,255,21.000000000000000,20730.728746699998737
+30,53,95,Corn: Rainfed->Other Arable Land,Corn: Rainfed,Other Arable Land,159,26,64,255,1205.000000000000000,1189548.959040000103414
+31,55,97,Corn: Rainfed->Unmanaged Pasture,Corn: Rainfed,Unmanaged Pasture,147,55,49,255,22.000000000000000,21717.906306100001530
+32,56,98,"Corn: Rainfed->Developed, Open Space",Corn: Rainfed,"Developed, Open Space",155,24,48,255,251.000000000000000,247781.567401999986032
+33,57,99,"Corn: Rainfed->Developed, Low Intensity",Corn: Rainfed,"Developed, Low Intensity",156,94,38,255,224.000000000000000,221127.773298999993131
+34,58,100,"Corn: Rainfed->Developed, Medium Intensity",Corn: Rainfed,"Developed, Medium Intensity",106,74,46,255,495.000000000000000,488652.891887000005227
+35,59,101,"Corn: Rainfed->Developed, High Intensity",Corn: Rainfed,"Developed, High Intensity",158,86,116,255,504.000000000000000,497537.489921999978833
+36,63,105,Corn: Rainfed->Unmanaged Deciduous Forest,Corn: Rainfed,Unmanaged Deciduous Forest,186,103,116,255,2.000000000000000,1974.355118740000080
+37,64,106,Corn: Rainfed->Unmanaged Evergreen Forest,Corn: Rainfed,Unmanaged Evergreen Forest,147,37,104,255,3.000000000000000,2961.532678109999779
+38,66,108,Corn: Rainfed->Shrubland,Corn: Rainfed,Shrubland,89,32,132,255,358.000000000000000,353409.566254000004847
+39,67,109,Corn: Rainfed->Grassland,Corn: Rainfed,Grassland,78,107,134,255,194.000000000000000,191512.446518000011565
+40,68,110,"Corn: Rainfed->Rock, Ice, Desert",Corn: Rainfed,"Rock, Ice, Desert",102,120,104,255,17.000000000000000,16782.018509300000005
+41,69,111,Corn: Rainfed->Open Water,Corn: Rainfed,Open Water,135,128,58,255,5.000000000000000,4935.887796840000192
+42,72,114,Wheat: Irrigated->Corn: Irrigated,Wheat: Irrigated,Corn: Irrigated,161,110,121,255,313.000000000000000,308986.576081999985036
+43,73,115,Wheat: Irrigated->Corn: Rainfed,Wheat: Irrigated,Corn: Rainfed,198,135,63,255,262.000000000000000,258640.520554999995511
+44,74,3,Wheat: Irrigated,Wheat: Irrigated,Wheat: Irrigated,164,178,70,255,442.000000000000000,436332.481241000001319
+45,75,116,Wheat: Irrigated->Wheat: Rainfed,Wheat: Irrigated,Wheat: Rainfed,103,193,110,255,39.000000000000000,38499.924815400001535
+46,79,120,Wheat: Irrigated->Other Grain: Irrigated,Wheat: Irrigated,Other Grain: Irrigated,117,115,157,255,6.000000000000000,5923.065356209999663
+47,80,121,Wheat: Irrigated->Other Grain: Rainfed,Wheat: Irrigated,Other Grain: Rainfed,149,95,127,255,3.000000000000000,2961.532678109999779
+48,82,123,Wheat: Irrigated->Fiber Crop: Rainfed,Wheat: Irrigated,Fiber Crop: Rainfed,137,130,140,255,1.000000000000000,987.177559369000051
+49,85,126,Wheat: Irrigated->Fodder Herb: Irrigated,Wheat: Irrigated,Fodder Herb: Irrigated,176,164,119,255,7.000000000000000,6910.242915580000044
+50,86,127,Wheat: Irrigated->Fodder Herb: Rainfed,Wheat: Irrigated,Fodder Herb: Rainfed,149,200,98,255,2.000000000000000,1974.355118740000080
+51,89,130,Wheat: Irrigated->Other Arable Land,Wheat: Irrigated,Other Arable Land,171,109,78,255,8.000000000000000,7897.420474950000425
+52,102,143,Wheat: Irrigated->Shrubland,Wheat: Irrigated,Shrubland,101,114,146,255,1.000000000000000,987.177559369000051
+53,108,149,Wheat: Rainfed->Corn: Irrigated,Wheat: Rainfed,Corn: Irrigated,173,81,198,255,100.000000000000000,98717.755936899993685
+54,109,150,Wheat: Rainfed->Corn: Rainfed,Wheat: Rainfed,Corn: Rainfed,210,106,139,255,567.000000000000000,559729.676162000047043
+55,110,151,Wheat: Rainfed->Wheat: Irrigated,Wheat: Rainfed,Wheat: Irrigated,217,183,196,255,272.000000000000000,268512.296147999993991
+56,111,4,Wheat: Rainfed,Wheat: Rainfed,Wheat: Rainfed,188,120,223,255,2433.000000000000000,2401803.001939999870956
+57,112,152,Wheat: Rainfed->Rice: rainfed,Wheat: Rainfed,Rice: rainfed,164,124,120,255,1.000000000000000,987.177559369000051
+58,114,154,Wheat: Rainfed->Oil Crop: Rainfed,Wheat: Rainfed,Oil Crop: Rainfed,197,177,135,255,2.000000000000000,1974.355118740000080
+59,115,155,Wheat: Rainfed->Other Grain: Irrigated,Wheat: Rainfed,Other Grain: Irrigated,129,86,234,255,13.000000000000000,12833.308271800000512
+60,116,156,Wheat: Rainfed->Other Grain: Rainfed,Wheat: Rainfed,Other Grain: Rainfed,161,66,204,255,443.000000000000000,437319.658799999975599
+61,117,157,Wheat: Rainfed->Fiber Crop: Irrigated,Wheat: Rainfed,Fiber Crop: Irrigated,114,179,115,255,1.000000000000000,987.177559369000051
+62,118,158,Wheat: Rainfed->Fiber Crop: Rainfed,Wheat: Rainfed,Fiber Crop: Rainfed,149,101,216,255,46.000000000000000,45410.167731000001368
+63,120,160,Wheat: Rainfed->Fodder Grass: Rainfed,Wheat: Rainfed,Fodder Grass: Rainfed,116,77,127,255,125.000000000000000,123397.194921000002068
+64,121,161,Wheat: Rainfed->Fodder Herb: Irrigated,Wheat: Rainfed,Fodder Herb: Irrigated,188,135,196,255,30.000000000000000,29615.326781100000517
+65,122,162,Wheat: Rainfed->Fodder Herb: Rainfed,Wheat: Rainfed,Fodder Herb: Rainfed,161,171,174,255,415.000000000000000,409678.687137999979313
+66,124,164,Wheat: Rainfed->Misc-Crop: Rainfed,Wheat: Rainfed,Misc-Crop: Rainfed,183,103,233,255,21.000000000000000,20730.728746699998737
+67,125,165,Wheat: Rainfed->Other Arable Land,Wheat: Rainfed,Other Arable Land,183,80,155,255,313.000000000000000,308986.576081999985036
+68,127,167,Wheat: Rainfed->Unmanaged Pasture,Wheat: Rainfed,Unmanaged Pasture,171,108,139,255,5.000000000000000,4935.887796840000192
+69,128,168,"Wheat: Rainfed->Developed, Open Space",Wheat: Rainfed,"Developed, Open Space",179,78,138,255,322.000000000000000,317871.174117000016849
+70,129,169,"Wheat: Rainfed->Developed, Low Intensity",Wheat: Rainfed,"Developed, Low Intensity",180,148,129,255,471.000000000000000,464960.630462999979500
+71,130,170,"Wheat: Rainfed->Developed, Medium Intensity",Wheat: Rainfed,"Developed, Medium Intensity",130,127,136,255,1142.000000000000000,1127356.772799999918789
+72,131,171,"Wheat: Rainfed->Developed, High Intensity",Wheat: Rainfed,"Developed, High Intensity",182,140,207,255,586.000000000000000,578486.049789999960922
+73,138,178,Wheat: Rainfed->Shrubland,Wheat: Rainfed,Shrubland,113,85,223,255,133.000000000000000,131294.615396000008332
+74,139,179,Wheat: Rainfed->Grassland,Wheat: Rainfed,Grassland,102,161,224,255,76.000000000000000,75025.494512000004761
+75,140,180,"Wheat: Rainfed->Rock, Ice, Desert",Wheat: Rainfed,"Rock, Ice, Desert",126,174,195,255,6.000000000000000,5923.065356209999663
+76,141,181,Wheat: Rainfed->Open Water,Wheat: Rainfed,Open Water,159,181,148,255,1.000000000000000,987.177559369000051
+77,153,192,Oil Crop: Irrigated->Fiber Crop: Irrigated,Oil Crop: Irrigated,Fiber Crop: Irrigated,26,226,32,255,1.000000000000000,987.177559369000051
+78,155,194,Oil Crop: Irrigated->Fodder Grass: Irrigated,Oil Crop: Irrigated,Fodder Grass: Irrigated,73,198,76,255,1.000000000000000,987.177559369000051
+79,181,220,Oil Crop: Rainfed->Corn: Rainfed,Oil Crop: Rainfed,Corn: Rainfed,207,108,142,255,51.000000000000000,50346.055527800002892
+80,182,221,Oil Crop: Rainfed->Wheat: Irrigated,Oil Crop: Rainfed,Wheat: Irrigated,214,185,199,255,2.000000000000000,1974.355118740000080
+81,183,222,Oil Crop: Rainfed->Wheat: Rainfed,Oil Crop: Rainfed,Wheat: Rainfed,112,165,189,255,112.000000000000000,110563.886648999992758
+82,186,10,Oil Crop: Rainfed,Oil Crop: Rainfed,Oil Crop: Rainfed,182,123,228,255,67.000000000000000,66140.896477699992829
+83,188,226,Oil Crop: Rainfed->Other Grain: Rainfed,Oil Crop: Rainfed,Other Grain: Rainfed,158,68,206,255,23.000000000000000,22705.083865500000684
+84,189,227,Oil Crop: Rainfed->Fiber Crop: Irrigated,Oil Crop: Rainfed,Fiber Crop: Irrigated,111,181,118,255,7.000000000000000,6910.242915580000044
+85,190,228,Oil Crop: Rainfed->Fiber Crop: Rainfed,Oil Crop: Rainfed,Fiber Crop: Rainfed,146,102,219,255,13.000000000000000,12833.308271800000512
+86,192,230,Oil Crop: Rainfed->Fodder Grass: Rainfed,Oil Crop: Rainfed,Fodder Grass: Rainfed,113,79,130,255,29.000000000000000,28628.149221700001362
+87,194,232,Oil Crop: Rainfed->Fodder Herb: Rainfed,Oil Crop: Rainfed,Fodder Herb: Rainfed,158,172,177,255,45.000000000000000,44422.990171600002213
+88,196,234,Oil Crop: Rainfed->Misc-Crop: Rainfed,Oil Crop: Rainfed,Misc-Crop: Rainfed,180,105,235,255,3.000000000000000,2961.532678109999779
+89,197,235,Oil Crop: Rainfed->Other Arable Land,Oil Crop: Rainfed,Other Arable Land,180,81,157,255,42.000000000000000,41461.457493499998236
+90,200,238,"Oil Crop: Rainfed->Developed, Open Space",Oil Crop: Rainfed,"Developed, Open Space",176,79,141,255,23.000000000000000,22705.083865500000684
+91,201,239,"Oil Crop: Rainfed->Developed, Low Intensity",Oil Crop: Rainfed,"Developed, Low Intensity",177,149,131,255,41.000000000000000,40474.279934099999082
+92,202,240,"Oil Crop: Rainfed->Developed, Medium Intensity",Oil Crop: Rainfed,"Developed, Medium Intensity",127,129,139,255,56.000000000000000,55281.943324599997140
+93,203,241,"Oil Crop: Rainfed->Developed, High Intensity",Oil Crop: Rainfed,"Developed, High Intensity",179,141,209,255,16.000000000000000,15794.840949900000851
+94,210,248,Oil Crop: Rainfed->Shrubland,Oil Crop: Rainfed,Shrubland,110,87,225,255,17.000000000000000,16782.018509300000005
+95,211,249,Oil Crop: Rainfed->Grassland,Oil Crop: Rainfed,Grassland,99,162,227,255,20.000000000000000,19743.551187400000344
+96,212,250,"Oil Crop: Rainfed->Rock, Ice, Desert",Oil Crop: Rainfed,"Rock, Ice, Desert",123,175,197,255,1.000000000000000,987.177559369000051
+97,213,251,Oil Crop: Rainfed->Open Water,Oil Crop: Rainfed,Open Water,156,183,151,255,2.000000000000000,1974.355118740000080
+98,237,275,"Sugar Crop: Rainfed->Developed, Low Intensity",Sugar Crop: Rainfed,"Developed, Low Intensity",109,175,51,255,2.000000000000000,1974.355118740000080
+99,253,291,Other Grain: Irrigated->Corn: Rainfed,Other Grain: Irrigated,Corn: Rainfed,204,118,85,255,1.000000000000000,987.177559369000051
+100,254,292,Other Grain: Irrigated->Wheat: Irrigated,Other Grain: Irrigated,Wheat: Irrigated,211,195,142,255,14.000000000000000,13820.485831199999666
+101,255,293,Other Grain: Irrigated->Wheat: Rainfed,Other Grain: Irrigated,Wheat: Rainfed,109,176,132,255,1.000000000000000,987.177559369000051
+102,259,13,Other Grain: Irrigated,Other Grain: Irrigated,Other Grain: Irrigated,176,144,115,255,1.000000000000000,987.177559369000051
+103,260,297,Other Grain: Irrigated->Other Grain: Rainfed,Other Grain: Irrigated,Other Grain: Rainfed,155,78,150,255,3.000000000000000,2961.532678109999779
+104,263,300,Other Grain: Irrigated->Fodder Grass: Irrigated,Other Grain: Irrigated,Fodder Grass: Irrigated,156,164,106,255,4.000000000000000,3948.710237469999811
+105,265,302,Other Grain: Irrigated->Fodder Herb: Irrigated,Other Grain: Irrigated,Fodder Herb: Irrigated,182,147,142,255,4.000000000000000,3948.710237469999811
+106,269,306,Other Grain: Irrigated->Other Arable Land,Other Grain: Irrigated,Other Arable Land,177,92,101,255,35.000000000000000,34551.214577899998403
+107,288,325,Other Grain: Rainfed->Corn: Irrigated,Other Grain: Rainfed,Corn: Irrigated,137,134,210,255,11.000000000000000,10858.953153099999327
+108,289,326,Other Grain: Rainfed->Corn: Rainfed,Other Grain: Rainfed,Corn: Rainfed,174,159,151,255,78.000000000000000,76999.849630800003069
+109,290,327,Other Grain: Rainfed->Wheat: Irrigated,Other Grain: Rainfed,Wheat: Irrigated,181,236,208,255,37.000000000000000,36525.569696600003226
+110,291,328,Other Grain: Rainfed->Wheat: Rainfed,Other Grain: Rainfed,Wheat: Rainfed,79,217,198,255,175.000000000000000,172756.072890000010375
+111,295,332,Other Grain: Rainfed->Other Grain: Irrigated,Other Grain: Rainfed,Other Grain: Irrigated,93,139,246,255,50.000000000000000,49358.877968399996462
+112,296,14,Other Grain: Rainfed,Other Grain: Rainfed,Other Grain: Rainfed,116,226,247,255,272.000000000000000,268512.296147999993991
+113,298,334,Other Grain: Rainfed->Fiber Crop: Rainfed,Other Grain: Rainfed,Fiber Crop: Rainfed,113,154,228,255,7.000000000000000,6910.242915580000044
+114,300,336,Other Grain: Rainfed->Fodder Grass: Rainfed,Other Grain: Rainfed,Fodder Grass: Rainfed,80,130,139,255,47.000000000000000,46397.345290299999760
+115,301,337,Other Grain: Rainfed->Fodder Herb: Irrigated,Other Grain: Rainfed,Fodder Herb: Irrigated,152,188,208,255,5.000000000000000,4935.887796840000192
+116,302,338,Other Grain: Rainfed->Fodder Herb: Rainfed,Other Grain: Rainfed,Fodder Herb: Rainfed,125,224,186,255,119.000000000000000,117474.129564999995637
+117,304,340,Other Grain: Rainfed->Misc-Crop: Rainfed,Other Grain: Rainfed,Misc-Crop: Rainfed,147,156,245,255,5.000000000000000,4935.887796840000192
+118,305,341,Other Grain: Rainfed->Other Arable Land,Other Grain: Rainfed,Other Arable Land,147,133,167,255,151.000000000000000,149063.811465000006137
+119,307,343,Other Grain: Rainfed->Unmanaged Pasture,Other Grain: Rainfed,Unmanaged Pasture,135,161,151,255,7.000000000000000,6910.242915580000044
+120,308,344,"Other Grain: Rainfed->Developed, Open Space",Other Grain: Rainfed,"Developed, Open Space",143,131,150,255,76.000000000000000,75025.494512000004761
+121,309,345,"Other Grain: Rainfed->Developed, Low Intensity",Other Grain: Rainfed,"Developed, Low Intensity",144,201,141,255,62.000000000000000,61205.008680899998581
+122,310,346,"Other Grain: Rainfed->Developed, Medium Intensity",Other Grain: Rainfed,"Developed, Medium Intensity",94,180,148,255,139.000000000000000,137217.680751999985659
+123,311,347,"Other Grain: Rainfed->Developed, High Intensity",Other Grain: Rainfed,"Developed, High Intensity",146,193,219,255,109.000000000000000,107602.353971000004094
+124,316,352,Other Grain: Rainfed->Unmanaged Evergreen Forest,Other Grain: Rainfed,Unmanaged Evergreen Forest,135,144,207,255,1.000000000000000,987.177559369000051
+125,318,354,Other Grain: Rainfed->Shrubland,Other Grain: Rainfed,Shrubland,77,138,235,255,116.000000000000000,114512.596887000006973
+126,319,355,Other Grain: Rainfed->Grassland,Other Grain: Rainfed,Grassland,66,214,236,255,46.000000000000000,45410.167731000001368
+127,320,356,"Other Grain: Rainfed->Rock, Ice, Desert",Other Grain: Rainfed,"Rock, Ice, Desert",90,227,207,255,4.000000000000000,3948.710237469999811
+128,321,357,Other Grain: Rainfed->Open Water,Other Grain: Rainfed,Open Water,123,234,160,255,5.000000000000000,4935.887796840000192
+129,325,361,Fiber Crop: Irrigated->Corn: Rainfed,Fiber Crop: Irrigated,Corn: Rainfed,185,116,126,255,50.000000000000000,49358.877968399996462
+130,326,362,Fiber Crop: Irrigated->Wheat: Irrigated,Fiber Crop: Irrigated,Wheat: Irrigated,192,193,183,255,151.000000000000000,149063.811465000006137
+131,333,15,Fiber Crop: Irrigated,Fiber Crop: Irrigated,Fiber Crop: Irrigated,138,140,196,255,102.000000000000000,100692.111055999994278
+132,334,369,Fiber Crop: Irrigated->Fiber Crop: Rainfed,Fiber Crop: Irrigated,Fiber Crop: Rainfed,124,111,203,255,3.000000000000000,2961.532678109999779
+133,335,370,Fiber Crop: Irrigated->Fodder Grass: Irrigated,Fiber Crop: Irrigated,Fodder Grass: Irrigated,137,162,146,255,4.000000000000000,3948.710237469999811
+134,338,373,Fiber Crop: Irrigated->Fodder Herb: Rainfed,Fiber Crop: Irrigated,Fodder Herb: Rainfed,136,181,161,255,4.000000000000000,3948.710237469999811
+135,341,376,Fiber Crop: Irrigated->Other Arable Land,Fiber Crop: Irrigated,Other Arable Land,158,90,141,255,9.000000000000000,8884.598034320000806
+136,360,395,Fiber Crop: Rainfed->Corn: Irrigated,Fiber Crop: Rainfed,Corn: Irrigated,88,47,193,255,4.000000000000000,3948.710237469999811
+137,361,396,Fiber Crop: Rainfed->Corn: Rainfed,Fiber Crop: Rainfed,Corn: Rainfed,125,72,135,255,176.000000000000000,173743.250449000013759
+138,362,397,Fiber Crop: Rainfed->Wheat: Irrigated,Fiber Crop: Rainfed,Wheat: Irrigated,132,149,192,255,15.000000000000000,14807.663390499999878
+139,363,398,Fiber Crop: Rainfed->Wheat: Rainfed,Fiber Crop: Rainfed,Wheat: Rainfed,30,130,182,255,64.000000000000000,63179.363799600003404
+140,368,403,Fiber Crop: Rainfed->Other Grain: Rainfed,Fiber Crop: Rainfed,Other Grain: Rainfed,76,32,199,255,41.000000000000000,40474.279934099999082
+141,369,404,Fiber Crop: Rainfed->Fiber Crop: Irrigated,Fiber Crop: Rainfed,Fiber Crop: Irrigated,29,145,111,255,5.000000000000000,4935.887796840000192
+142,370,16,Fiber Crop: Rainfed,Fiber Crop: Rainfed,Fiber Crop: Rainfed,18,52,214,255,32.000000000000000,31589.681899800001702
+143,371,405,Fiber Crop: Rainfed->Fodder Grass: Irrigated,Fiber Crop: Rainfed,Fodder Grass: Irrigated,77,118,155,255,2.000000000000000,1974.355118740000080
+144,372,406,Fiber Crop: Rainfed->Fodder Grass: Rainfed,Fiber Crop: Rainfed,Fodder Grass: Rainfed,31,43,123,255,5.000000000000000,4935.887796840000192
+145,374,408,Fiber Crop: Rainfed->Fodder Herb: Rainfed,Fiber Crop: Rainfed,Fodder Herb: Rainfed,76,137,170,255,33.000000000000000,32576.859459200000856
+146,376,410,Fiber Crop: Rainfed->Misc-Crop: Rainfed,Fiber Crop: Rainfed,Misc-Crop: Rainfed,98,69,228,255,3.000000000000000,2961.532678109999779
+147,377,411,Fiber Crop: Rainfed->Other Arable Land,Fiber Crop: Rainfed,Other Arable Land,98,46,150,255,118.000000000000000,116486.952006000006804
+148,380,414,"Fiber Crop: Rainfed->Developed, Open Space",Fiber Crop: Rainfed,"Developed, Open Space",94,44,134,255,42.000000000000000,41461.457493499998236
+149,381,415,"Fiber Crop: Rainfed->Developed, Low Intensity",Fiber Crop: Rainfed,"Developed, Low Intensity",95,114,124,255,44.000000000000000,43435.812612200003059
+150,382,416,"Fiber Crop: Rainfed->Developed, Medium Intensity",Fiber Crop: Rainfed,"Developed, Medium Intensity",45,93,132,255,68.000000000000000,67128.074037099999259
+151,383,417,"Fiber Crop: Rainfed->Developed, High Intensity",Fiber Crop: Rainfed,"Developed, High Intensity",97,106,202,255,33.000000000000000,32576.859459200000856
+152,388,422,Fiber Crop: Rainfed->Unmanaged Evergreen Forest,Fiber Crop: Rainfed,Unmanaged Evergreen Forest,86,57,190,255,1.000000000000000,987.177559369000051
+153,390,424,Fiber Crop: Rainfed->Shrubland,Fiber Crop: Rainfed,Shrubland,28,51,218,255,3.000000000000000,2961.532678109999779
+154,391,425,Fiber Crop: Rainfed->Grassland,Fiber Crop: Rainfed,Grassland,17,127,220,255,4.000000000000000,3948.710237469999811
+155,392,426,"Fiber Crop: Rainfed->Rock, Ice, Desert",Fiber Crop: Rainfed,"Rock, Ice, Desert",41,140,190,255,5.000000000000000,4935.887796840000192
+156,396,430,Fodder Grass: Irrigated->Corn: Irrigated,Fodder Grass: Irrigated,Corn: Irrigated,115,99,161,255,3.000000000000000,2961.532678109999779
+157,397,431,Fodder Grass: Irrigated->Corn: Rainfed,Fodder Grass: Irrigated,Corn: Rainfed,152,124,103,255,4.000000000000000,3948.710237469999811
+158,398,432,Fodder Grass: Irrigated->Wheat: Irrigated,Fodder Grass: Irrigated,Wheat: Irrigated,159,201,160,255,5.000000000000000,4935.887796840000192
+159,406,440,Fodder Grass: Irrigated->Fiber Crop: Rainfed,Fodder Grass: Irrigated,Fiber Crop: Rainfed,91,119,180,255,4.000000000000000,3948.710237469999811
+160,407,17,Fodder Grass: Irrigated,Fodder Grass: Irrigated,Fodder Grass: Irrigated,72,156,150,255,26.000000000000000,25666.616543600001023
+161,408,441,Fodder Grass: Irrigated->Fodder Grass: Rainfed,Fodder Grass: Irrigated,Fodder Grass: Rainfed,58,95,91,255,97.000000000000000,95756.223258800004260
+162,409,442,Fodder Grass: Irrigated->Fodder Herb: Irrigated,Fodder Grass: Irrigated,Fodder Herb: Irrigated,130,153,159,255,4.000000000000000,3948.710237469999811
+163,410,443,Fodder Grass: Irrigated->Fodder Herb: Rainfed,Fodder Grass: Irrigated,Fodder Herb: Rainfed,103,189,138,255,11.000000000000000,10858.953153099999327
+164,411,444,Fodder Grass: Irrigated->Misc-Crop: Irrigated,Fodder Grass: Irrigated,Misc-Crop: Irrigated,81,141,86,255,1.000000000000000,987.177559369000051
+165,413,446,Fodder Grass: Irrigated->Other Arable Land,Fodder Grass: Irrigated,Other Arable Land,125,98,118,255,20.000000000000000,19743.551187400000344
+166,416,449,"Fodder Grass: Irrigated->Developed, Open Space",Fodder Grass: Irrigated,"Developed, Open Space",121,96,102,255,3.000000000000000,2961.532678109999779
+167,417,450,"Fodder Grass: Irrigated->Developed, Low Intensity",Fodder Grass: Irrigated,"Developed, Low Intensity",122,166,92,255,3.000000000000000,2961.532678109999779
+168,418,451,"Fodder Grass: Irrigated->Developed, Medium Intensity",Fodder Grass: Irrigated,"Developed, Medium Intensity",72,145,100,255,2.000000000000000,1974.355118740000080
+169,426,459,Fodder Grass: Irrigated->Shrubland,Fodder Grass: Irrigated,Shrubland,55,103,186,255,5.000000000000000,4935.887796840000192
+170,433,466,Fodder Grass: Rainfed->Corn: Rainfed,Fodder Grass: Rainfed,Corn: Rainfed,241,84,97,255,51.000000000000000,50346.055527800002892
+171,435,468,Fodder Grass: Rainfed->Wheat: Rainfed,Fodder Grass: Rainfed,Wheat: Rainfed,145,142,144,255,79.000000000000000,77987.027190099994186
+172,438,471,Fodder Grass: Rainfed->Oil Crop: Rainfed,Fodder Grass: Rainfed,Oil Crop: Rainfed,227,155,93,255,2.000000000000000,1974.355118740000080
+173,440,473,Fodder Grass: Rainfed->Other Grain: Rainfed,Fodder Grass: Rainfed,Other Grain: Rainfed,192,44,162,255,71.000000000000000,70089.606715200003237
+174,442,475,Fodder Grass: Rainfed->Fiber Crop: Rainfed,Fodder Grass: Rainfed,Fiber Crop: Rainfed,180,79,174,255,17.000000000000000,16782.018509300000005
+175,443,476,Fodder Grass: Rainfed->Fodder Grass: Irrigated,Fodder Grass: Rainfed,Fodder Grass: Irrigated,192,130,118,255,4.000000000000000,3948.710237469999811
+176,444,18,Fodder Grass: Rainfed,Fodder Grass: Rainfed,Fodder Grass: Rainfed,249,76,139,255,3545.000000000000000,3499544.447960000019521
+177,446,478,Fodder Grass: Rainfed->Fodder Herb: Rainfed,Fodder Grass: Rainfed,Fodder Herb: Rainfed,191,149,132,255,138.000000000000000,136230.503193000011379
+178,448,480,Fodder Grass: Rainfed->Misc-Crop: Rainfed,Fodder Grass: Rainfed,Misc-Crop: Rainfed,214,81,191,255,10.000000000000000,9871.775593689999369
+179,449,481,Fodder Grass: Rainfed->Other Arable Land,Fodder Grass: Rainfed,Other Arable Land,214,58,113,255,406.000000000000000,400794.089104000013322
+180,450,482,Fodder Grass: Rainfed->Managed Pasture,Fodder Grass: Rainfed,Managed Pasture,133,72,194,255,6.000000000000000,5923.065356209999663
+181,451,483,Fodder Grass: Rainfed->Unmanaged Pasture,Fodder Grass: Rainfed,Unmanaged Pasture,202,86,97,255,100.000000000000000,98717.755936899993685
+182,452,484,"Fodder Grass: Rainfed->Developed, Open Space",Fodder Grass: Rainfed,"Developed, Open Space",209,56,96,255,347.000000000000000,342550.613101000024471
+183,453,485,"Fodder Grass: Rainfed->Developed, Low Intensity",Fodder Grass: Rainfed,"Developed, Low Intensity",211,126,87,255,172.000000000000000,169794.540211000014096
+184,454,486,"Fodder Grass: Rainfed->Developed, Medium Intensity",Fodder Grass: Rainfed,"Developed, Medium Intensity",161,105,94,255,211.000000000000000,208294.465026999998372
+185,455,487,"Fodder Grass: Rainfed->Developed, High Intensity",Fodder Grass: Rainfed,"Developed, High Intensity",213,118,165,255,198.000000000000000,195461.156755000003614
+186,459,491,Fodder Grass: Rainfed->Unmanaged Deciduous Forest,Fodder Grass: Rainfed,Unmanaged Deciduous Forest,241,135,165,255,6.000000000000000,5923.065356209999663
+187,460,492,Fodder Grass: Rainfed->Unmanaged Evergreen Forest,Fodder Grass: Rainfed,Unmanaged Evergreen Forest,201,69,153,255,11.000000000000000,10858.953153099999327
+188,461,493,Fodder Grass: Rainfed->Unmanaged Mixed Forest,Fodder Grass: Rainfed,Unmanaged Mixed Forest,206,100,96,255,1.000000000000000,987.177559369000051
+189,462,494,Fodder Grass: Rainfed->Shrubland,Fodder Grass: Rainfed,Shrubland,143,63,181,255,800.000000000000000,789742.047494999947958
+190,463,495,Fodder Grass: Rainfed->Grassland,Fodder Grass: Rainfed,Grassland,133,139,182,255,403.000000000000000,397832.556426000024658
+191,464,496,"Fodder Grass: Rainfed->Rock, Ice, Desert",Fodder Grass: Rainfed,"Rock, Ice, Desert",157,152,153,255,33.000000000000000,32576.859459200000856
+192,465,497,Fodder Grass: Rainfed->Open Water,Fodder Grass: Rainfed,Open Water,190,159,106,255,1.000000000000000,987.177559369000051
+193,466,498,Fodder Grass: Rainfed->Woody Wetlands,Fodder Grass: Rainfed,Woody Wetlands,155,120,85,255,11.000000000000000,10858.953153099999327
+194,467,499,Fodder Grass: Rainfed->Emergent Herbaceous Wetlands,Fodder Grass: Rainfed,Emergent Herbaceous Wetlands,168,118,84,255,5.000000000000000,4935.887796840000192
+195,468,500,Fodder Herb: Irrigated->Corn: Irrigated,Fodder Herb: Irrigated,Corn: Irrigated,90,123,100,255,6.000000000000000,5923.065356209999663
+196,469,501,Fodder Herb: Irrigated->Corn: Rainfed,Fodder Herb: Irrigated,Corn: Rainfed,127,148,42,255,14.000000000000000,13820.485831199999666
+197,470,502,Fodder Herb: Irrigated->Wheat: Irrigated,Fodder Herb: Irrigated,Wheat: Irrigated,134,225,99,255,2.000000000000000,1974.355118740000080
+198,471,503,Fodder Herb: Irrigated->Wheat: Rainfed,Fodder Herb: Irrigated,Wheat: Rainfed,32,205,89,255,6.000000000000000,5923.065356209999663
+199,476,508,Fodder Herb: Irrigated->Other Grain: Rainfed,Fodder Herb: Irrigated,Other Grain: Rainfed,78,108,106,255,16.000000000000000,15794.840949900000851
+200,477,509,Fodder Herb: Irrigated->Fiber Crop: Irrigated,Fodder Herb: Irrigated,Fiber Crop: Irrigated,31,221,18,255,4.000000000000000,3948.710237469999811
+201,478,510,Fodder Herb: Irrigated->Fiber Crop: Rainfed,Fodder Herb: Irrigated,Fiber Crop: Rainfed,66,142,119,255,6.000000000000000,5923.065356209999663
+202,479,511,Fodder Herb: Irrigated->Fodder Grass: Irrigated,Fodder Herb: Irrigated,Fodder Grass: Irrigated,79,193,62,255,38.000000000000000,37512.747256000002380
+203,480,512,Fodder Herb: Irrigated->Fodder Grass: Rainfed,Fodder Herb: Irrigated,Fodder Grass: Rainfed,33,119,30,255,14.000000000000000,13820.485831199999666
+204,481,19,Fodder Herb: Irrigated,Fodder Herb: Irrigated,Fodder Herb: Irrigated,22,203,28,255,6.000000000000000,5923.065356209999663
+205,482,513,Fodder Herb: Irrigated->Fodder Herb: Rainfed,Fodder Herb: Irrigated,Fodder Herb: Rainfed,78,212,77,255,27.000000000000000,26653.794103000000177
+206,485,516,Fodder Herb: Irrigated->Other Arable Land,Fodder Herb: Irrigated,Other Arable Land,100,121,57,255,28.000000000000000,27640.971662299998570
+207,487,518,Fodder Herb: Irrigated->Unmanaged Pasture,Fodder Herb: Irrigated,Unmanaged Pasture,88,150,42,255,5.000000000000000,4935.887796840000192
+208,498,529,Fodder Herb: Irrigated->Shrubland,Fodder Herb: Irrigated,Shrubland,30,127,125,255,2.000000000000000,1974.355118740000080
+209,499,530,Fodder Herb: Irrigated->Grassland,Fodder Herb: Irrigated,Grassland,19,202,127,255,1.000000000000000,987.177559369000051
+210,504,535,Fodder Herb: Rainfed->Corn: Irrigated,Fodder Herb: Rainfed,Corn: Irrigated,149,25,137,255,7.000000000000000,6910.242915580000044
+211,505,536,Fodder Herb: Rainfed->Corn: Rainfed,Fodder Herb: Rainfed,Corn: Rainfed,186,50,79,255,386.000000000000000,381050.537916000001132
+212,506,537,Fodder Herb: Rainfed->Wheat: Irrigated,Fodder Herb: Rainfed,Wheat: Irrigated,193,127,136,255,4.000000000000000,3948.710237469999811
+213,507,538,Fodder Herb: Rainfed->Wheat: Rainfed,Fodder Herb: Rainfed,Wheat: Rainfed,90,108,126,255,731.000000000000000,721626.795899000018835
+214,508,539,Fodder Herb: Rainfed->Rice: rainfed,Fodder Herb: Rainfed,Rice: rainfed,140,68,60,255,2.000000000000000,1974.355118740000080
+215,510,541,Fodder Herb: Rainfed->Oil Crop: Rainfed,Fodder Herb: Rainfed,Oil Crop: Rainfed,172,121,74,255,11.000000000000000,10858.953153099999327
+216,511,542,Fodder Herb: Rainfed->Other Grain: Irrigated,Fodder Herb: Rainfed,Other Grain: Irrigated,105,30,173,255,1.000000000000000,987.177559369000051
+217,512,543,Fodder Herb: Rainfed->Other Grain: Rainfed,Fodder Herb: Rainfed,Other Grain: Rainfed,137,10,143,255,685.000000000000000,676216.628168000024743
+218,514,545,Fodder Herb: Rainfed->Fiber Crop: Rainfed,Fodder Herb: Rainfed,Fiber Crop: Rainfed,125,45,156,255,101.000000000000000,99704.933496199999354
+219,515,546,Fodder Herb: Rainfed->Fodder Grass: Irrigated,Fodder Herb: Rainfed,Fodder Grass: Irrigated,137,96,99,255,8.000000000000000,7897.420474950000425
+220,516,547,Fodder Herb: Rainfed->Fodder Grass: Rainfed,Fodder Herb: Rainfed,Fodder Grass: Rainfed,92,21,67,255,373.000000000000000,368217.229645000013988
+221,517,548,Fodder Herb: Rainfed->Fodder Herb: Irrigated,Fodder Herb: Rainfed,Fodder Herb: Irrigated,164,79,135,255,10.000000000000000,9871.775593689999369
+222,518,20,Fodder Herb: Rainfed,Fodder Herb: Rainfed,Fodder Herb: Rainfed,139,8,102,255,822.000000000000000,811459.953801000025123
+223,520,550,Fodder Herb: Rainfed->Misc-Crop: Rainfed,Fodder Herb: Rainfed,Misc-Crop: Rainfed,159,47,172,255,23.000000000000000,22705.083865500000684
+224,521,551,Fodder Herb: Rainfed->Other Arable Land,Fodder Herb: Rainfed,Other Arable Land,159,24,94,255,594.000000000000000,586383.470265000010841
+225,522,552,Fodder Herb: Rainfed->Managed Pasture,Fodder Herb: Rainfed,Managed Pasture,78,38,175,255,1.000000000000000,987.177559369000051
+226,523,553,Fodder Herb: Rainfed->Unmanaged Pasture,Fodder Herb: Rainfed,Unmanaged Pasture,147,52,79,255,33.000000000000000,32576.859459200000856
+227,524,554,"Fodder Herb: Rainfed->Developed, Open Space",Fodder Herb: Rainfed,"Developed, Open Space",154,22,78,255,143.000000000000000,141166.390990000014426
+228,525,555,"Fodder Herb: Rainfed->Developed, Low Intensity",Fodder Herb: Rainfed,"Developed, Low Intensity",156,92,68,255,88.000000000000000,86871.625224400006118
+229,526,556,"Fodder Herb: Rainfed->Developed, Medium Intensity",Fodder Herb: Rainfed,"Developed, Medium Intensity",106,71,76,255,183.000000000000000,180653.493363999994472
+230,527,557,"Fodder Herb: Rainfed->Developed, High Intensity",Fodder Herb: Rainfed,"Developed, High Intensity",158,84,146,255,133.000000000000000,131294.615396000008332
+231,531,561,Fodder Herb: Rainfed->Unmanaged Deciduous Forest,Fodder Herb: Rainfed,Unmanaged Deciduous Forest,186,101,146,255,2.000000000000000,1974.355118740000080
+232,532,562,Fodder Herb: Rainfed->Unmanaged Evergreen Forest,Fodder Herb: Rainfed,Unmanaged Evergreen Forest,146,35,134,255,1.000000000000000,987.177559369000051
+233,534,564,Fodder Herb: Rainfed->Shrubland,Fodder Herb: Rainfed,Shrubland,88,29,162,255,184.000000000000000,181640.670924000005471
+234,535,565,Fodder Herb: Rainfed->Grassland,Fodder Herb: Rainfed,Grassland,78,105,164,255,73.000000000000000,72063.961833900000784
+235,536,566,"Fodder Herb: Rainfed->Rock, Ice, Desert",Fodder Herb: Rainfed,"Rock, Ice, Desert",102,118,134,255,8.000000000000000,7897.420474950000425
+236,537,567,Fodder Herb: Rainfed->Open Water,Fodder Herb: Rainfed,Open Water,135,125,88,255,3.000000000000000,2961.532678109999779
+237,538,568,Fodder Herb: Rainfed->Woody Wetlands,Fodder Herb: Rainfed,Woody Wetlands,100,86,66,255,1.000000000000000,987.177559369000051
+238,539,569,Fodder Herb: Rainfed->Emergent Herbaceous Wetlands,Fodder Herb: Rainfed,Emergent Herbaceous Wetlands,113,84,66,255,1.000000000000000,987.177559369000051
+239,541,571,Misc-Crop: Rainfed->Corn: Rainfed,Misc-Crop: Rainfed,Corn: Rainfed,145,131,97,255,14.000000000000000,13820.485831199999666
+240,543,573,Misc-Crop: Rainfed->Wheat: Rainfed,Misc-Crop: Rainfed,Wheat: Rainfed,49,189,144,255,32.000000000000000,31589.681899800001702
+241,548,578,Misc-Crop: Rainfed->Other Grain: Rainfed,Misc-Crop: Rainfed,Other Grain: Rainfed,96,91,161,255,14.000000000000000,13820.485831199999666
+242,550,580,Misc-Crop: Rainfed->Fiber Crop: Rainfed,Misc-Crop: Rainfed,Fiber Crop: Rainfed,84,126,174,255,5.000000000000000,4935.887796840000192
+243,552,582,Misc-Crop: Rainfed->Fodder Grass: Rainfed,Misc-Crop: Rainfed,Fodder Grass: Rainfed,51,102,85,255,4.000000000000000,3948.710237469999811
+244,554,584,Misc-Crop: Rainfed->Fodder Herb: Rainfed,Misc-Crop: Rainfed,Fodder Herb: Rainfed,95,196,132,255,16.000000000000000,15794.840949900000851
+245,556,24,Misc-Crop: Rainfed,Misc-Crop: Rainfed,Misc-Crop: Rainfed,57,170,138,255,26.000000000000000,25666.616543600001023
+246,557,586,Misc-Crop: Rainfed->Other Arable Land,Misc-Crop: Rainfed,Other Arable Land,118,105,112,255,4.000000000000000,3948.710237469999811
+247,559,588,Misc-Crop: Rainfed->Unmanaged Pasture,Misc-Crop: Rainfed,Unmanaged Pasture,106,133,97,255,5.000000000000000,4935.887796840000192
+248,560,589,"Misc-Crop: Rainfed->Developed, Open Space",Misc-Crop: Rainfed,"Developed, Open Space",113,103,96,255,19.000000000000000,18756.373628000001190
+249,561,590,"Misc-Crop: Rainfed->Developed, Low Intensity",Misc-Crop: Rainfed,"Developed, Low Intensity",115,173,86,255,55.000000000000000,54294.765765299998748
+250,562,591,"Misc-Crop: Rainfed->Developed, Medium Intensity",Misc-Crop: Rainfed,"Developed, Medium Intensity",65,152,94,255,79.000000000000000,77987.027190099994186
+251,563,592,"Misc-Crop: Rainfed->Developed, High Intensity",Misc-Crop: Rainfed,"Developed, High Intensity",117,165,164,255,131.000000000000000,129320.260276999993948
+252,570,599,Misc-Crop: Rainfed->Shrubland,Misc-Crop: Rainfed,Shrubland,47,110,180,255,9.000000000000000,8884.598034320000806
+253,571,600,Misc-Crop: Rainfed->Grassland,Misc-Crop: Rainfed,Grassland,37,186,182,255,7.000000000000000,6910.242915580000044
+254,572,601,"Misc-Crop: Rainfed->Rock, Ice, Desert",Misc-Crop: Rainfed,"Rock, Ice, Desert",61,199,152,255,14.000000000000000,13820.485831199999666
+255,576,605,Other Arable Land->Corn: Irrigated,Other Arable Land,Corn: Irrigated,142,66,129,255,8.000000000000000,7897.420474950000425
+256,577,606,Other Arable Land->Corn: Rainfed,Other Arable Land,Corn: Rainfed,179,91,70,255,147.000000000000000,145115.101227000006475
+257,578,607,Other Arable Land->Wheat: Irrigated,Other Arable Land,Wheat: Irrigated,186,168,127,255,1.000000000000000,987.177559369000051
+258,579,608,Other Arable Land->Wheat: Rainfed,Other Arable Land,Wheat: Rainfed,84,148,117,255,210.000000000000000,207307.287466999987373
+259,580,609,Other Arable Land->Rice: rainfed,Other Arable Land,Rice: rainfed,133,108,51,255,1.000000000000000,987.177559369000051
+260,582,611,Other Arable Land->Oil Crop: Rainfed,Other Arable Land,Oil Crop: Rainfed,166,161,66,255,4.000000000000000,3948.710237469999811
+261,583,612,Other Arable Land->Other Grain: Irrigated,Other Arable Land,Other Grain: Irrigated,98,71,165,255,1.000000000000000,987.177559369000051
+262,584,613,Other Arable Land->Other Grain: Rainfed,Other Arable Land,Other Grain: Rainfed,130,51,135,255,219.000000000000000,216191.885501999990083
+263,585,614,Other Arable Land->Fiber Crop: Irrigated,Other Arable Land,Fiber Crop: Irrigated,83,164,46,255,1.000000000000000,987.177559369000051
+264,586,615,Other Arable Land->Fiber Crop: Rainfed,Other Arable Land,Fiber Crop: Rainfed,118,85,147,255,62.000000000000000,61205.008680899998581
+265,587,616,Other Arable Land->Fodder Grass: Irrigated,Other Arable Land,Fodder Grass: Irrigated,131,136,91,255,5.000000000000000,4935.887796840000192
+266,588,617,Other Arable Land->Fodder Grass: Rainfed,Other Arable Land,Fodder Grass: Rainfed,85,62,58,255,405.000000000000000,399806.911543999973219
+267,589,618,Other Arable Land->Fodder Herb: Irrigated,Other Arable Land,Fodder Herb: Irrigated,157,119,127,255,5.000000000000000,4935.887796840000192
+268,590,619,Other Arable Land->Fodder Herb: Rainfed,Other Arable Land,Fodder Herb: Rainfed,130,155,105,255,242.000000000000000,238896.969367000012426
+269,592,621,Other Arable Land->Misc-Crop: Rainfed,Other Arable Land,Misc-Crop: Rainfed,152,88,164,255,7.000000000000000,6910.242915580000044
+270,593,25,Other Arable Land,Other Arable Land,Other Arable Land,126,89,85,255,5744.000000000000000,5670347.901010000146925
+271,595,623,Other Arable Land->Unmanaged Pasture,Other Arable Land,Unmanaged Pasture,140,93,70,255,28.000000000000000,27640.971662299998570
+272,596,624,"Other Arable Land->Developed, Open Space",Other Arable Land,"Developed, Open Space",148,62,69,255,150.000000000000000,148076.633904999995138
+273,597,625,"Other Arable Land->Developed, Low Intensity",Other Arable Land,"Developed, Low Intensity",149,132,60,255,162.000000000000000,159922.764617999986513
+274,598,626,"Other Arable Land->Developed, Medium Intensity",Other Arable Land,"Developed, Medium Intensity",99,112,67,255,297.000000000000000,293191.735132000001613
+275,599,627,"Other Arable Land->Developed, High Intensity",Other Arable Land,"Developed, High Intensity",151,124,138,255,163.000000000000000,160909.942176999989897
+276,603,631,Other Arable Land->Unmanaged Deciduous Forest,Other Arable Land,Unmanaged Deciduous Forest,179,141,138,255,1.000000000000000,987.177559369000051
+277,604,632,Other Arable Land->Unmanaged Evergreen Forest,Other Arable Land,Unmanaged Evergreen Forest,140,75,126,255,3.000000000000000,2961.532678109999779
+278,606,634,Other Arable Land->Shrubland,Other Arable Land,Shrubland,82,70,154,255,220.000000000000000,217179.063060999993468
+279,607,635,Other Arable Land->Grassland,Other Arable Land,Grassland,71,145,155,255,130.000000000000000,128333.082718000005116
+280,608,636,"Other Arable Land->Rock, Ice, Desert",Other Arable Land,"Rock, Ice, Desert",95,158,126,255,89.000000000000000,87858.802783799997997
+281,610,638,Other Arable Land->Woody Wetlands,Other Arable Land,Woody Wetlands,94,126,58,255,1.000000000000000,987.177559369000051
+282,624,652,Managed Pasture->Fodder Grass: Rainfed,Managed Pasture,Fodder Grass: Rainfed,108,138,103,255,4.000000000000000,3948.710237469999811
+283,630,26,Managed Pasture,Managed Pasture,Managed Pasture,172,242,174,255,218.000000000000000,215204.707942000008188
+284,649,676,Unmanaged Pasture->Corn: Rainfed,Unmanaged Pasture,Corn: Rainfed,182,153,108,255,1.000000000000000,987.177559369000051
+285,651,678,Unmanaged Pasture->Wheat: Rainfed,Unmanaged Pasture,Wheat: Rainfed,86,210,155,255,7.000000000000000,6910.242915580000044
+286,654,681,Unmanaged Pasture->Oil Crop: Rainfed,Unmanaged Pasture,Oil Crop: Rainfed,168,223,103,255,1.000000000000000,987.177559369000051
+287,656,683,Unmanaged Pasture->Other Grain: Rainfed,Unmanaged Pasture,Other Grain: Rainfed,133,113,172,255,12.000000000000000,11846.130712399999538
+288,658,685,Unmanaged Pasture->Fiber Crop: Rainfed,Unmanaged Pasture,Fiber Crop: Rainfed,121,147,185,255,3.000000000000000,2961.532678109999779
+289,660,687,Unmanaged Pasture->Fodder Grass: Rainfed,Unmanaged Pasture,Fodder Grass: Rainfed,88,124,96,255,126.000000000000000,124384.372480000005453
+290,662,689,Unmanaged Pasture->Fodder Herb: Rainfed,Unmanaged Pasture,Fodder Herb: Rainfed,132,217,143,255,5.000000000000000,4935.887796840000192
+291,664,691,Unmanaged Pasture->Misc-Crop: Rainfed,Unmanaged Pasture,Misc-Crop: Rainfed,155,150,201,255,2.000000000000000,1974.355118740000080
+292,665,692,Unmanaged Pasture->Other Arable Land,Unmanaged Pasture,Other Arable Land,155,126,123,255,7.000000000000000,6910.242915580000044
+293,667,27,Unmanaged Pasture,Unmanaged Pasture,Unmanaged Pasture,131,213,160,255,6423.000000000000000,6340641.463829999789596
+294,668,694,"Unmanaged Pasture->Developed, Open Space",Unmanaged Pasture,"Developed, Open Space",150,124,107,255,48.000000000000000,47384.522849699998915
+295,669,695,"Unmanaged Pasture->Developed, Low Intensity",Unmanaged Pasture,"Developed, Low Intensity",152,194,97,255,47.000000000000000,46397.345290299999760
+296,670,696,"Unmanaged Pasture->Developed, Medium Intensity",Unmanaged Pasture,"Developed, Medium Intensity",102,174,105,255,23.000000000000000,22705.083865500000684
+297,671,697,"Unmanaged Pasture->Developed, High Intensity",Unmanaged Pasture,"Developed, High Intensity",154,186,175,255,7.000000000000000,6910.242915580000044
+298,678,704,Unmanaged Pasture->Shrubland,Unmanaged Pasture,Shrubland,84,132,191,255,3.000000000000000,2961.532678109999779
+299,679,705,Unmanaged Pasture->Grassland,Unmanaged Pasture,Grassland,74,207,193,255,1.000000000000000,987.177559369000051
+300,680,706,"Unmanaged Pasture->Rock, Ice, Desert",Unmanaged Pasture,"Rock, Ice, Desert",98,220,163,255,9.000000000000000,8884.598034320000806
+301,685,711,"Developed, Open Space->Corn: Rainfed","Developed, Open Space",Corn: Rainfed,170,70,77,255,9.000000000000000,8884.598034320000806
+302,687,713,"Developed, Open Space->Wheat: Rainfed","Developed, Open Space",Wheat: Rainfed,74,128,124,255,9.000000000000000,8884.598034320000806
+303,692,718,"Developed, Open Space->Other Grain: Rainfed","Developed, Open Space",Other Grain: Rainfed,121,30,141,255,7.000000000000000,6910.242915580000044
+304,694,720,"Developed, Open Space->Fiber Crop: Rainfed","Developed, Open Space",Fiber Crop: Rainfed,109,65,154,255,1.000000000000000,987.177559369000051
+305,696,722,"Developed, Open Space->Fodder Grass: Rainfed","Developed, Open Space",Fodder Grass: Rainfed,76,41,65,255,44.000000000000000,43435.812612200003059
+306,698,724,"Developed, Open Space->Fodder Herb: Rainfed","Developed, Open Space",Fodder Herb: Rainfed,120,135,112,255,3.000000000000000,2961.532678109999779
+307,700,726,"Developed, Open Space->Misc-Crop: Rainfed","Developed, Open Space",Misc-Crop: Rainfed,143,67,170,255,2.000000000000000,1974.355118740000080
+308,701,727,"Developed, Open Space->Other Arable Land","Developed, Open Space",Other Arable Land,143,44,92,255,4.000000000000000,3948.710237469999811
+309,704,28,"Developed, Open Space","Developed, Open Space","Developed, Open Space",107,48,98,255,238693.000000000000000,235632373.178000003099442
+310,705,730,"Developed, Open Space->Developed, Low Intensity","Developed, Open Space","Developed, Low Intensity",140,112,66,255,2148.000000000000000,2120457.397520000115037
+311,706,731,"Developed, Open Space->Developed, Medium Intensity","Developed, Open Space","Developed, Medium Intensity",90,91,74,255,9108.000000000000000,8991213.210729999467731
+312,707,732,"Developed, Open Space->Developed, High Intensity","Developed, Open Space","Developed, High Intensity",142,104,144,255,3005.000000000000000,2966468.565899999812245
+313,721,746,"Developed, Low Intensity->Corn: Rainfed","Developed, Low Intensity",Corn: Rainfed,179,113,34,255,2.000000000000000,1974.355118740000080
+314,723,748,"Developed, Low Intensity->Wheat: Rainfed","Developed, Low Intensity",Wheat: Rainfed,84,170,81,255,6.000000000000000,5923.065356209999663
+315,728,753,"Developed, Low Intensity->Other Grain: Rainfed","Developed, Low Intensity",Other Grain: Rainfed,130,73,99,255,4.000000000000000,3948.710237469999811
+316,732,757,"Developed, Low Intensity->Fodder Grass: Rainfed","Developed, Low Intensity",Fodder Grass: Rainfed,85,84,22,255,15.000000000000000,14807.663390499999878
+317,734,759,"Developed, Low Intensity->Fodder Herb: Rainfed","Developed, Low Intensity",Fodder Herb: Rainfed,130,177,69,255,2.000000000000000,1974.355118740000080
+318,736,761,"Developed, Low Intensity->Misc-Crop: Rainfed","Developed, Low Intensity",Misc-Crop: Rainfed,152,110,128,255,1.000000000000000,987.177559369000051
+319,737,762,"Developed, Low Intensity->Other Arable Land","Developed, Low Intensity",Other Arable Land,152,86,50,255,1.000000000000000,987.177559369000051
+320,741,29,"Developed, Low Intensity","Developed, Low Intensity","Developed, Low Intensity",126,133,13,255,342393.000000000000000,338002686.084999978542328
+321,742,766,"Developed, Low Intensity->Developed, Medium Intensity","Developed, Low Intensity","Developed, Medium Intensity",99,134,31,255,3210.000000000000000,3168839.965570000000298
+322,743,767,"Developed, Low Intensity->Developed, High Intensity","Developed, Low Intensity","Developed, High Intensity",151,146,102,255,3670.000000000000000,3622941.642880000174046
+323,757,781,"Developed, Medium Intensity->Corn: Rainfed","Developed, Medium Intensity",Corn: Rainfed,188,162,119,255,1.000000000000000,987.177559369000051
+324,759,783,"Developed, Medium Intensity->Wheat: Rainfed","Developed, Medium Intensity",Wheat: Rainfed,92,219,166,255,12.000000000000000,11846.130712399999538
+325,764,788,"Developed, Medium Intensity->Other Grain: Rainfed","Developed, Medium Intensity",Other Grain: Rainfed,139,122,183,255,3.000000000000000,2961.532678109999779
+326,766,790,"Developed, Medium Intensity->Fiber Crop: Rainfed","Developed, Medium Intensity",Fiber Crop: Rainfed,127,156,196,255,2.000000000000000,1974.355118740000080
+327,768,792,"Developed, Medium Intensity->Fodder Grass: Rainfed","Developed, Medium Intensity",Fodder Grass: Rainfed,94,133,107,255,10.000000000000000,9871.775593689999369
+328,770,794,"Developed, Medium Intensity->Fodder Herb: Rainfed","Developed, Medium Intensity",Fodder Herb: Rainfed,138,226,154,255,1.000000000000000,987.177559369000051
+329,773,797,"Developed, Medium Intensity->Other Arable Land","Developed, Medium Intensity",Other Arable Land,161,135,134,255,1.000000000000000,987.177559369000051
+330,778,30,"Developed, Medium Intensity","Developed, Medium Intensity","Developed, Medium Intensity",143,231,182,255,412062.000000000000000,406778359.468999981880188
+331,779,802,"Developed, Medium Intensity->Developed, High Intensity","Developed, Medium Intensity","Developed, High Intensity",160,195,186,255,600.000000000000000,592306.535620999988168
+332,793,816,"Developed, High Intensity->Corn: Rainfed","Developed, High Intensity",Corn: Rainfed,175,124,53,255,1.000000000000000,987.177559369000051
+333,795,818,"Developed, High Intensity->Wheat: Rainfed","Developed, High Intensity",Wheat: Rainfed,80,181,100,255,5.000000000000000,4935.887796840000192
+334,800,823,"Developed, High Intensity->Other Grain: Rainfed","Developed, High Intensity",Other Grain: Rainfed,126,84,117,255,3.000000000000000,2961.532678109999779
+335,802,825,"Developed, High Intensity->Fiber Crop: Rainfed","Developed, High Intensity",Fiber Crop: Rainfed,114,118,130,255,1.000000000000000,987.177559369000051
+336,804,827,"Developed, High Intensity->Fodder Grass: Rainfed","Developed, High Intensity",Fodder Grass: Rainfed,81,95,41,255,3.000000000000000,2961.532678109999779
+337,806,829,"Developed, High Intensity->Fodder Herb: Rainfed","Developed, High Intensity",Fodder Herb: Rainfed,126,188,88,255,3.000000000000000,2961.532678109999779
+338,809,832,"Developed, High Intensity->Other Arable Land","Developed, High Intensity",Other Arable Land,148,97,68,255,1.000000000000000,987.177559369000051
+339,815,31,"Developed, High Intensity","Developed, High Intensity","Developed, High Intensity",118,155,50,255,189251.000000000000000,186824340.287999987602234
+340,852,32,Managed Deciduous Forest,Managed Deciduous Forest,Managed Deciduous Forest,200,164,39,255,57.000000000000000,56269.120884000003571
+341,889,33,Managed Evergreen Forest,Managed Evergreen Forest,Managed Evergreen Forest,137,16,36,255,28.000000000000000,27640.971662299998570
+342,926,34,Managed Mixed Forest,Managed Mixed Forest,Managed Mixed Forest,224,248,57,255,24.000000000000000,23692.261424799999077
+343,937,956,Unmanaged Deciduous Forest->Corn: Rainfed,Unmanaged Deciduous Forest,Corn: Rainfed,184,93,126,255,6.000000000000000,5923.065356209999663
+344,939,958,Unmanaged Deciduous Forest->Wheat: Rainfed,Unmanaged Deciduous Forest,Wheat: Rainfed,88,150,173,255,4.000000000000000,3948.710237469999811
+345,944,963,Unmanaged Deciduous Forest->Other Grain: Rainfed,Unmanaged Deciduous Forest,Other Grain: Rainfed,135,53,191,255,41.000000000000000,40474.279934099999082
+346,946,965,Unmanaged Deciduous Forest->Fiber Crop: Rainfed,Unmanaged Deciduous Forest,Fiber Crop: Rainfed,123,87,203,255,1.000000000000000,987.177559369000051
+347,948,967,Unmanaged Deciduous Forest->Fodder Grass: Rainfed,Unmanaged Deciduous Forest,Fodder Grass: Rainfed,90,64,114,255,21.000000000000000,20730.728746699998737
+348,950,969,Unmanaged Deciduous Forest->Fodder Herb: Rainfed,Unmanaged Deciduous Forest,Fodder Herb: Rainfed,134,157,161,255,2.000000000000000,1974.355118740000080
+349,952,971,Unmanaged Deciduous Forest->Misc-Crop: Rainfed,Unmanaged Deciduous Forest,Misc-Crop: Rainfed,157,90,220,255,9.000000000000000,8884.598034320000806
+350,953,972,Unmanaged Deciduous Forest->Other Arable Land,Unmanaged Deciduous Forest,Other Arable Land,157,66,142,255,26.000000000000000,25666.616543600001023
+351,956,975,"Unmanaged Deciduous Forest->Developed, Open Space",Unmanaged Deciduous Forest,"Developed, Open Space",152,64,125,255,603.000000000000000,595268.068299000035040
+352,957,976,"Unmanaged Deciduous Forest->Developed, Low Intensity",Unmanaged Deciduous Forest,"Developed, Low Intensity",154,134,116,255,844.000000000000000,833177.860106999985874
+353,958,977,"Unmanaged Deciduous Forest->Developed, Medium Intensity",Unmanaged Deciduous Forest,"Developed, Medium Intensity",104,114,123,255,916.000000000000000,904254.644381999969482
+354,959,978,"Unmanaged Deciduous Forest->Developed, High Intensity",Unmanaged Deciduous Forest,"Developed, High Intensity",156,126,194,255,327.000000000000000,322807.061914000019897
+355,963,35,Unmanaged Deciduous Forest,Unmanaged Deciduous Forest,Unmanaged Deciduous Forest,135,93,197,255,30281.000000000000000,29892723.675200000405312
+356,966,984,Unmanaged Deciduous Forest->Shrubland,Unmanaged Deciduous Forest,Shrubland,86,72,210,255,24.000000000000000,23692.261424799999077
+357,967,985,Unmanaged Deciduous Forest->Grassland,Unmanaged Deciduous Forest,Grassland,76,147,211,255,819.000000000000000,808498.421122999978252
+358,968,986,"Unmanaged Deciduous Forest->Rock, Ice, Desert",Unmanaged Deciduous Forest,"Rock, Ice, Desert",100,160,182,255,467.000000000000000,461011.920225000008941
+359,969,987,Unmanaged Deciduous Forest->Open Water,Unmanaged Deciduous Forest,Open Water,133,168,135,255,3.000000000000000,2961.532678109999779
+360,973,991,Unmanaged Evergreen Forest->Corn: Rainfed,Unmanaged Evergreen Forest,Corn: Rainfed,150,92,65,255,3.000000000000000,2961.532678109999779
+361,975,993,Unmanaged Evergreen Forest->Wheat: Rainfed,Unmanaged Evergreen Forest,Wheat: Rainfed,54,150,112,255,6.000000000000000,5923.065356209999663
+362,980,998,Unmanaged Evergreen Forest->Other Grain: Rainfed,Unmanaged Evergreen Forest,Other Grain: Rainfed,101,52,129,255,80.000000000000000,78974.204749500000617
+363,982,1000,Unmanaged Evergreen Forest->Fiber Crop: Rainfed,Unmanaged Evergreen Forest,Fiber Crop: Rainfed,89,87,142,255,1.000000000000000,987.177559369000051
+364,984,1002,Unmanaged Evergreen Forest->Fodder Grass: Rainfed,Unmanaged Evergreen Forest,Fodder Grass: Rainfed,56,63,53,255,11.000000000000000,10858.953153099999327
+365,986,1004,Unmanaged Evergreen Forest->Fodder Herb: Rainfed,Unmanaged Evergreen Forest,Fodder Herb: Rainfed,100,157,100,255,10.000000000000000,9871.775593689999369
+366,988,1006,Unmanaged Evergreen Forest->Misc-Crop: Rainfed,Unmanaged Evergreen Forest,Misc-Crop: Rainfed,123,89,158,255,15.000000000000000,14807.663390499999878
+367,989,1007,Unmanaged Evergreen Forest->Other Arable Land,Unmanaged Evergreen Forest,Other Arable Land,123,66,80,255,10.000000000000000,9871.775593689999369
+368,992,1010,"Unmanaged Evergreen Forest->Developed, Open Space",Unmanaged Evergreen Forest,"Developed, Open Space",118,64,64,255,1380.000000000000000,1362305.031930000055581
+369,993,1011,"Unmanaged Evergreen Forest->Developed, Low Intensity",Unmanaged Evergreen Forest,"Developed, Low Intensity",120,134,54,255,1223.000000000000000,1207318.155109999934211
+370,994,1012,"Unmanaged Evergreen Forest->Developed, Medium Intensity",Unmanaged Evergreen Forest,"Developed, Medium Intensity",70,113,62,255,1296.000000000000000,1279382.116940000094473
+371,995,1013,"Unmanaged Evergreen Forest->Developed, High Intensity",Unmanaged Evergreen Forest,"Developed, High Intensity",122,126,132,255,595.000000000000000,587370.647823999985121
+372,1000,36,Unmanaged Evergreen Forest,Unmanaged Evergreen Forest,Unmanaged Evergreen Forest,67,92,74,255,104151.000000000000000,102815529.986000001430511
+373,1002,1019,Unmanaged Evergreen Forest->Shrubland,Unmanaged Evergreen Forest,Shrubland,52,71,148,255,259.000000000000000,255678.987875999999233
+374,1003,1020,Unmanaged Evergreen Forest->Grassland,Unmanaged Evergreen Forest,Grassland,42,147,150,255,1233.000000000000000,1217189.930699999909848
+375,1004,1021,"Unmanaged Evergreen Forest->Rock, Ice, Desert",Unmanaged Evergreen Forest,"Rock, Ice, Desert",66,160,120,255,983.000000000000000,970395.540858999942429
+376,1011,1028,Unmanaged Mixed Forest->Wheat: Rainfed,Unmanaged Mixed Forest,Wheat: Rainfed,21,205,120,255,2.000000000000000,1974.355118740000080
+377,1016,1033,Unmanaged Mixed Forest->Other Grain: Rainfed,Unmanaged Mixed Forest,Other Grain: Rainfed,67,107,138,255,1.000000000000000,987.177559369000051
+378,1020,1037,Unmanaged Mixed Forest->Fodder Grass: Rainfed,Unmanaged Mixed Forest,Fodder Grass: Rainfed,22,118,61,255,2.000000000000000,1974.355118740000080
+379,1024,1041,Unmanaged Mixed Forest->Misc-Crop: Rainfed,Unmanaged Mixed Forest,Misc-Crop: Rainfed,89,144,167,255,2.000000000000000,1974.355118740000080
+380,1025,1042,Unmanaged Mixed Forest->Other Arable Land,Unmanaged Mixed Forest,Other Arable Land,89,121,89,255,2.000000000000000,1974.355118740000080
+381,1028,1045,"Unmanaged Mixed Forest->Developed, Open Space",Unmanaged Mixed Forest,"Developed, Open Space",85,119,72,255,42.000000000000000,41461.457493499998236
+382,1029,1046,"Unmanaged Mixed Forest->Developed, Low Intensity",Unmanaged Mixed Forest,"Developed, Low Intensity",86,189,63,255,50.000000000000000,49358.877968399996462
+383,1030,1047,"Unmanaged Mixed Forest->Developed, Medium Intensity",Unmanaged Mixed Forest,"Developed, Medium Intensity",36,168,70,255,65.000000000000000,64166.541359000002558
+384,1031,1048,"Unmanaged Mixed Forest->Developed, High Intensity",Unmanaged Mixed Forest,"Developed, High Intensity",88,181,141,255,38.000000000000000,37512.747256000002380
+385,1035,1052,Unmanaged Mixed Forest->Unmanaged Deciduous Forest,Unmanaged Mixed Forest,Unmanaged Deciduous Forest,116,198,141,255,4.000000000000000,3948.710237469999811
+386,1037,37,Unmanaged Mixed Forest,Unmanaged Mixed Forest,Unmanaged Mixed Forest,0,202,91,255,4157.000000000000000,4103697.114300000015646
+387,1038,1054,Unmanaged Mixed Forest->Shrubland,Unmanaged Mixed Forest,Shrubland,19,126,157,255,10.000000000000000,9871.775593689999369
+388,1039,1055,Unmanaged Mixed Forest->Grassland,Unmanaged Mixed Forest,Grassland,8,202,158,255,83.000000000000000,81935.737427600004594
+389,1040,1056,"Unmanaged Mixed Forest->Rock, Ice, Desert",Unmanaged Mixed Forest,"Rock, Ice, Desert",32,215,129,255,46.000000000000000,45410.167731000001368
+390,1045,1061,Shrubland->Corn: Rainfed,Shrubland,Corn: Rainfed,216,91,98,255,125.000000000000000,123397.194921000002068
+391,1047,1063,Shrubland->Wheat: Rainfed,Shrubland,Wheat: Rainfed,120,149,145,255,169.000000000000000,166833.007532999996329
+392,1050,1066,Shrubland->Oil Crop: Rainfed,Shrubland,Oil Crop: Rainfed,202,162,93,255,24.000000000000000,23692.261424799999077
+393,1052,1068,Shrubland->Other Grain: Rainfed,Shrubland,Other Grain: Rainfed,167,51,162,255,257.000000000000000,253704.632757999992464
+394,1054,1070,Shrubland->Fiber Crop: Rainfed,Shrubland,Fiber Crop: Rainfed,155,86,175,255,43.000000000000000,42448.635052899997390
+395,1056,1072,Shrubland->Fodder Grass: Rainfed,Shrubland,Fodder Grass: Rainfed,122,62,86,255,1041.000000000000000,1027651.839299999992363
+396,1058,1074,Shrubland->Fodder Herb: Rainfed,Shrubland,Fodder Herb: Rainfed,166,156,133,255,110.000000000000000,108589.531531000000541
+397,1060,1076,Shrubland->Misc-Crop: Rainfed,Shrubland,Misc-Crop: Rainfed,189,88,191,255,46.000000000000000,45410.167731000001368
+398,1061,1077,Shrubland->Other Arable Land,Shrubland,Other Arable Land,189,65,113,255,1952.000000000000000,1926970.595889999996871
+399,1064,1080,"Shrubland->Developed, Open Space",Shrubland,"Developed, Open Space",184,63,97,255,2917.000000000000000,2879596.940679999999702
+400,1065,1081,"Shrubland->Developed, Low Intensity",Shrubland,"Developed, Low Intensity",186,133,87,255,3086.000000000000000,3046429.948210000060499
+401,1066,1082,"Shrubland->Developed, Medium Intensity",Shrubland,"Developed, Medium Intensity",136,112,95,255,4159.000000000000000,4105671.469409999903291
+402,1067,1083,"Shrubland->Developed, High Intensity",Shrubland,"Developed, High Intensity",188,125,165,255,2088.000000000000000,2061226.743960000108927
+403,1071,1087,Shrubland->Unmanaged Deciduous Forest,Shrubland,Unmanaged Deciduous Forest,216,142,165,255,1321.000000000000000,1304061.555930000031367
+404,1072,1088,Shrubland->Unmanaged Evergreen Forest,Shrubland,Unmanaged Evergreen Forest,176,76,153,255,1805.000000000000000,1781855.494660000083968
+405,1073,1089,Shrubland->Unmanaged Mixed Forest,Shrubland,Unmanaged Mixed Forest,181,107,96,255,1127.000000000000000,1112549.109410000033677
+406,1074,38,Shrubland,Shrubland,Shrubland,199,90,140,255,132991.000000000000000,131285730.797999992966652
+407,1075,1090,Shrubland->Grassland,Shrubland,Grassland,108,146,183,255,236.000000000000000,232973.904011000005994
+408,1076,1091,"Shrubland->Rock, Ice, Desert",Shrubland,"Rock, Ice, Desert",132,159,153,255,1572.000000000000000,1551843.123330000089481
+409,1077,1092,Shrubland->Open Water,Shrubland,Open Water,165,166,107,255,4.000000000000000,3948.710237469999811
+410,1081,1096,Grassland->Corn: Rainfed,Grassland,Corn: Rainfed,230,52,57,255,28.000000000000000,27640.971662299998570
+411,1083,1098,Grassland->Wheat: Rainfed,Grassland,Wheat: Rainfed,134,109,104,255,59.000000000000000,58243.476002800001879
+412,1086,1101,Grassland->Oil Crop: Rainfed,Grassland,Oil Crop: Rainfed,216,122,53,255,16.000000000000000,15794.840949900000851
+413,1088,1103,Grassland->Other Grain: Rainfed,Grassland,Other Grain: Rainfed,181,12,122,255,89.000000000000000,87858.802783799997997
+414,1090,1105,Grassland->Fiber Crop: Rainfed,Grassland,Fiber Crop: Rainfed,169,46,134,255,48.000000000000000,47384.522849699998915
+415,1092,1107,Grassland->Fodder Grass: Rainfed,Grassland,Fodder Grass: Rainfed,136,23,45,255,294.000000000000000,290230.202454000012949
+416,1094,1109,Grassland->Fodder Herb: Rainfed,Grassland,Fodder Herb: Rainfed,180,116,92,255,79.000000000000000,77987.027190099994186
+417,1096,1111,Grassland->Misc-Crop: Rainfed,Grassland,Misc-Crop: Rainfed,203,49,151,255,14.000000000000000,13820.485831199999666
+418,1097,1112,Grassland->Other Arable Land,Grassland,Other Arable Land,203,25,73,255,25.000000000000000,24679.438984199998231
+419,1100,1115,"Grassland->Developed, Open Space",Grassland,"Developed, Open Space",198,23,56,255,560.000000000000000,552819.433245999971405
+420,1101,1116,"Grassland->Developed, Low Intensity",Grassland,"Developed, Low Intensity",200,93,47,255,554.000000000000000,546896.367889999994077
+421,1102,1117,"Grassland->Developed, Medium Intensity",Grassland,"Developed, Medium Intensity",150,73,54,255,955.000000000000000,942754.569197000004351
+422,1103,1118,"Grassland->Developed, High Intensity",Grassland,"Developed, High Intensity",202,85,125,255,471.000000000000000,464960.630462999979500
+423,1107,1122,Grassland->Unmanaged Deciduous Forest,Grassland,Unmanaged Deciduous Forest,230,102,125,255,20.000000000000000,19743.551187400000344
+424,1108,1123,Grassland->Unmanaged Evergreen Forest,Grassland,Unmanaged Evergreen Forest,190,36,113,255,21.000000000000000,20730.728746699998737
+425,1109,1124,Grassland->Unmanaged Mixed Forest,Grassland,Unmanaged Mixed Forest,195,68,56,255,6.000000000000000,5923.065356209999663
+426,1110,1125,Grassland->Shrubland,Grassland,Shrubland,132,31,141,255,723.000000000000000,713729.375423999968916
+427,1111,39,Grassland,Grassland,Grassland,227,11,59,255,18787.000000000000000,18546104.807900000363588
+428,1112,1126,"Grassland->Rock, Ice, Desert",Grassland,"Rock, Ice, Desert",146,119,113,255,1366.000000000000000,1348484.546099999919534
+429,1117,1131,"Rock, Ice, Desert->Corn: Rainfed","Rock, Ice, Desert",Corn: Rainfed,135,130,66,255,3.000000000000000,2961.532678109999779
+430,1119,1133,"Rock, Ice, Desert->Wheat: Rainfed","Rock, Ice, Desert",Wheat: Rainfed,40,187,113,255,8.000000000000000,7897.420474950000425
+431,1122,1136,"Rock, Ice, Desert->Oil Crop: Rainfed","Rock, Ice, Desert",Oil Crop: Rainfed,122,200,62,255,3.000000000000000,2961.532678109999779
+432,1124,1138,"Rock, Ice, Desert->Other Grain: Rainfed","Rock, Ice, Desert",Other Grain: Rainfed,86,90,131,255,15.000000000000000,14807.663390499999878
+433,1126,1140,"Rock, Ice, Desert->Fiber Crop: Rainfed","Rock, Ice, Desert",Fiber Crop: Rainfed,74,124,143,255,3.000000000000000,2961.532678109999779
+434,1128,1142,"Rock, Ice, Desert->Fodder Grass: Rainfed","Rock, Ice, Desert",Fodder Grass: Rainfed,41,101,54,255,19.000000000000000,18756.373628000001190
+435,1130,1144,"Rock, Ice, Desert->Fodder Herb: Rainfed","Rock, Ice, Desert",Fodder Herb: Rainfed,86,194,101,255,7.000000000000000,6910.242915580000044
+436,1132,1146,"Rock, Ice, Desert->Misc-Crop: Rainfed","Rock, Ice, Desert",Misc-Crop: Rainfed,108,127,160,255,3.000000000000000,2961.532678109999779
+437,1133,1147,"Rock, Ice, Desert->Other Arable Land","Rock, Ice, Desert",Other Arable Land,108,103,82,255,4.000000000000000,3948.710237469999811
+438,1136,1150,"Rock, Ice, Desert->Developed, Open Space","Rock, Ice, Desert","Developed, Open Space",104,101,65,255,25.000000000000000,24679.438984199998231
+439,1137,1151,"Rock, Ice, Desert->Developed, Low Intensity","Rock, Ice, Desert","Developed, Low Intensity",105,171,56,255,43.000000000000000,42448.635052899997390
+440,1138,1152,"Rock, Ice, Desert->Developed, Medium Intensity","Rock, Ice, Desert","Developed, Medium Intensity",55,151,63,255,65.000000000000000,64166.541359000002558
+441,1139,1153,"Rock, Ice, Desert->Developed, High Intensity","Rock, Ice, Desert","Developed, High Intensity",107,163,134,255,37.000000000000000,36525.569696600003226
+442,1146,1160,"Rock, Ice, Desert->Shrubland","Rock, Ice, Desert",Shrubland,38,109,150,255,538.000000000000000,531101.526940000010654
+443,1147,1161,"Rock, Ice, Desert->Grassland","Rock, Ice, Desert",Grassland,27,184,151,255,9.000000000000000,8884.598034320000806
+444,1148,40,"Rock, Ice, Desert","Rock, Ice, Desert","Rock, Ice, Desert",38,167,77,255,4600.000000000000000,4541016.773099999874830
+445,1153,1166,Open Water->Corn: Rainfed,Open Water,Corn: Rainfed,123,61,110,255,1.000000000000000,987.177559369000051
+446,1155,1168,Open Water->Wheat: Rainfed,Open Water,Wheat: Rainfed,28,119,157,255,7.000000000000000,6910.242915580000044
+447,1160,1173,Open Water->Other Grain: Rainfed,Open Water,Other Grain: Rainfed,74,21,174,255,6.000000000000000,5923.065356209999663
+448,1166,1179,Open Water->Fodder Herb: Rainfed,Open Water,Fodder Herb: Rainfed,74,126,145,255,1.000000000000000,987.177559369000051
+449,1172,1185,"Open Water->Developed, Open Space",Open Water,"Developed, Open Space",92,33,109,255,6.000000000000000,5923.065356209999663
+450,1174,1187,"Open Water->Developed, Medium Intensity",Open Water,"Developed, Medium Intensity",43,82,107,255,2.000000000000000,1974.355118740000080
+451,1175,1188,"Open Water->Developed, High Intensity",Open Water,"Developed, High Intensity",95,95,177,255,3.000000000000000,2961.532678109999779
+452,1180,1193,Open Water->Unmanaged Evergreen Forest,Open Water,Unmanaged Evergreen Forest,84,46,165,255,1.000000000000000,987.177559369000051
+453,1183,1196,Open Water->Grassland,Open Water,Grassland,15,116,195,255,7.000000000000000,6910.242915580000044
+454,1184,1197,"Open Water->Rock, Ice, Desert",Open Water,"Rock, Ice, Desert",39,129,165,255,7.000000000000000,6910.242915580000044
+455,1185,41,Open Water,Open Water,Open Water,14,30,164,255,4656.000000000000000,4596298.716420000419021
+456,1187,1199,Open Water->Emergent Herbaceous Wetlands,Open Water,Emergent Herbaceous Wetlands,50,95,97,255,60.000000000000000,59230.653562100000272
+457,1189,1201,Woody Wetlands->Corn: Rainfed,Woody Wetlands,Corn: Rainfed,230,158,47,255,5.000000000000000,4935.887796840000192
+458,1191,1203,Woody Wetlands->Wheat: Rainfed,Woody Wetlands,Wheat: Rainfed,135,216,94,255,5.000000000000000,4935.887796840000192
+459,1196,1208,Woody Wetlands->Other Grain: Rainfed,Woody Wetlands,Other Grain: Rainfed,181,118,111,255,3.000000000000000,2961.532678109999779
+460,1198,1210,Woody Wetlands->Fiber Crop: Rainfed,Woody Wetlands,Fiber Crop: Rainfed,169,153,124,255,3.000000000000000,2961.532678109999779
+461,1200,1212,Woody Wetlands->Fodder Grass: Rainfed,Woody Wetlands,Fodder Grass: Rainfed,136,129,35,255,15.000000000000000,14807.663390499999878
+462,1202,1214,Woody Wetlands->Fodder Herb: Rainfed,Woody Wetlands,Fodder Herb: Rainfed,181,223,82,255,10.000000000000000,9871.775593689999369
+463,1204,1216,Woody Wetlands->Misc-Crop: Rainfed,Woody Wetlands,Misc-Crop: Rainfed,203,155,140,255,47.000000000000000,46397.345290299999760
+464,1205,1217,Woody Wetlands->Other Arable Land,Woody Wetlands,Other Arable Land,203,132,62,255,2.000000000000000,1974.355118740000080
+465,1208,1220,"Woody Wetlands->Developed, Open Space",Woody Wetlands,"Developed, Open Space",199,130,46,255,64.000000000000000,63179.363799600003404
+466,1209,1221,"Woody Wetlands->Developed, Low Intensity",Woody Wetlands,"Developed, Low Intensity",200,200,36,255,74.000000000000000,73051.139393300007214
+467,1210,1222,"Woody Wetlands->Developed, Medium Intensity",Woody Wetlands,"Developed, Medium Intensity",150,179,44,255,88.000000000000000,86871.625224400006118
+468,1211,1223,"Woody Wetlands->Developed, High Intensity",Woody Wetlands,"Developed, High Intensity",202,192,114,255,15.000000000000000,14807.663390499999878
+469,1222,42,Woody Wetlands,Woody Wetlands,Woody Wetlands,228,224,38,255,22397.000000000000000,22109815.797200001776218
+470,1223,1234,Woody Wetlands->Emergent Herbaceous Wetlands,Woody Wetlands,Emergent Herbaceous Wetlands,157,192,34,255,16.000000000000000,15794.840949900000851
+471,1232,1243,Emergent Herbaceous Wetlands->Other Grain: Rainfed,Emergent Herbaceous Wetlands,Other Grain: Rainfed,110,93,113,255,2.000000000000000,1974.355118740000080
+472,1240,1251,Emergent Herbaceous Wetlands->Misc-Crop: Rainfed,Emergent Herbaceous Wetlands,Misc-Crop: Rainfed,132,130,142,255,1.000000000000000,987.177559369000051
+473,1244,1255,"Emergent Herbaceous Wetlands->Developed, Open Space",Emergent Herbaceous Wetlands,"Developed, Open Space",128,104,47,255,4.000000000000000,3948.710237469999811
+474,1245,1256,"Emergent Herbaceous Wetlands->Developed, Low Intensity",Emergent Herbaceous Wetlands,"Developed, Low Intensity",129,174,38,255,4.000000000000000,3948.710237469999811
+475,1246,1257,"Emergent Herbaceous Wetlands->Developed, Medium Intensity",Emergent Herbaceous Wetlands,"Developed, Medium Intensity",79,154,45,255,9.000000000000000,8884.598034320000806
+476,1258,1269,Emergent Herbaceous Wetlands->Woody Wetlands,Emergent Herbaceous Wetlands,Woody Wetlands,74,168,36,255,16.000000000000000,15794.840949900000851
+477,1259,43,Emergent Herbaceous Wetlands,Emergent Herbaceous Wetlands,Emergent Herbaceous Wetlands,86,173,41,255,443.000000000000000,437319.658799999975599
