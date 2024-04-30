@@ -4,8 +4,8 @@ library(dplyr)
 library(tidyr)
 
 # Load the two NLCD rasters for different years
-raster1 <- raster("path_to_raster1.tif")
-raster2 <- raster("path_to_raster2.tif")
+raster1 <- raster("C:\\Users\\levis\\OneDrive - Baylor University\\2024\\Spring_Classes\\BioSeminar\\bio5100_lulcc\\rasters\\SA_2016.tif")
+raster2 <- raster("C:\\Users\\levis\\OneDrive - Baylor University\\2024\\Spring_Classes\\BioSeminar\\bio5100_lulcc\\rasters\\SA_2019.tif")
 
 # Extract the values of the rasters as factors
 values1 <- as.factor(getValues(raster1))
@@ -24,4 +24,4 @@ transition_counts <- transition_df %>%
   arrange(from_class, to_class)
 
 # Export the transition counts to a CSV file
-write.csv(transition_counts, file = "transition_counts.csv", row.names = FALSE)
+write.csv(transition_counts, file = "C:\\Users\\levis\\OneDrive - Baylor University\\2024\\Spring_Classes\\BioSeminar\\bio5100_lulcc\\transition_counts.csv", row.names = FALSE)
